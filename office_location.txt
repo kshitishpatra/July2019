@@ -1,0 +1,6 @@
+Your booking for 2019-07-09 is:
+Location: Bengaluru
+Building: Fairwinds
+Floor: 1
+Desk Number: 410
+Date and Time of booking: 2019-07-08 15:00:21.927
